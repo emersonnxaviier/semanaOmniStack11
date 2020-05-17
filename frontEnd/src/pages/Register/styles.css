@@ -1,0 +1,73 @@
+
+ /*configurar tudo dentro da div*/
+.register-container{  
+
+    width: 100%;
+    max-width: 1120px;  /* largura maxima*/
+    height: 100vh;  /* para que ocupe a altura toda do corpo*/
+    margin: 0 auto; /* o conteudo fica sempre centralizado na tela*/
+
+    display: flex;  /*  por padrão fica um item ao lado do outro a menos que mude a direcao do flex*/
+    align-items: center; /*alinha os icones verticalmente ao centro*/
+    justify-content: center; /*alinha os icones horizontalmente ao centro*/
+}
+
+ /*configurar a div dentro da div*/
+.register-container .content{ 
+    width: 100%;
+    padding: 96px;
+    background: #f0f0f5;
+    box-shadow: 0 0 100px rgba(0, 0, 0, 0.3);   /*efeito de sombra */
+    border-radius: 8px;
+
+    display: flex;
+    justify-content: space-between; /*coloca a section totalmente a esquerda e o form totalmente a direita e colocar um espaco entre eles. */
+    align-items: center;
+}
+
+/*configurar a section dentro da div*/
+.register-container .content section{ 
+    width: 100%;
+    max-width: 380px;
+}
+
+ /*configurar o h1 dentro da section*/
+.register-container .content section h1{ 
+
+    margin: 64px 0 32px; /*cima  lateral  embaixo*/
+    font-size: 32px;
+
+}
+
+ /*configurar o p dentro da section*/
+.register-container .content section p{ 
+
+    font-size: 18px;
+    color: #737380;
+    line-height: 32px;
+}
+
+/*configurar o form dentro da div*/
+.register-container .content form{  
+
+    width: 100%;
+    max-width: 450px;
+}
+
+/*configurar o input dentro do form*/
+.register-container .content form input{  
+
+    margin-top: 8px;
+}
+
+/*configurar o grupo de inputs dentro do form*/
+.register-container .content form .input-group{  
+
+    display: flex;
+}
+
+/*configurar o input  dentro do grupo de inputs*/
+.register-container .content form .input-group input + input{   /* adiciona uma estilização em todo input a partir do segundo dentro do grupo.*/
+
+    margin-left: 8px;
+}
