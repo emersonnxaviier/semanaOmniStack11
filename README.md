@@ -4,5 +4,5 @@
  - Sistema para ONGs se cadastrarem e divulgarem casos onde pessoas contribuam com o valor desses casos.
  
  
- ###OBSERVAÇÃO:
+ ### OBSERVAÇÃO:
  - Versão mobile com React Native ainda em desenvolvimento, em breve estarei atualizando e divulgando os códigos.
