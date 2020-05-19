@@ -1,7 +1,7 @@
 # semanaOmniStack11
  Código da aplicação desenvolvida durante a Semana OmniStack11
  
- - Sistema para ONGs se cadastrarem e divulgarem casos onde pessoas contribuam com o valor desses casos.
+ ## Sistema para ONGs se cadastrarem e divulgarem casos onde pessoas contribuam com o valor desses casos.
  
  
  ### OBSERVAÇÃO:
