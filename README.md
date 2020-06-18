@@ -1,5 +1,5 @@
 # Projeto
-O Be The Hero é sistema em que ONGs possam se cadastrar e cadastrar casos no qual pessoas possam contribuir financeiramente com casos específicos.
+O Be The Hero é um sistema em que ONGs possam se cadastrar e cadastrar casos no qual pessoas possam contribuir financeiramente com um caso específico.
 
 # Como Usar
 Para executar essa aplicação, é necessário o Git , Node.js + Yarn instalado em sua maquina.
