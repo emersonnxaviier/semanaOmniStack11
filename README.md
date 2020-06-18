@@ -1,20 +1,22 @@
-# Como Usar
+# Projeto
+O Be The Hero é sistema em que ONGs possam se cadastrar e cadastrar casos no qual pessoas possam contribuir financeiramente com casos específicos.
 
+# Como Usar
 Para executar essa aplicação, é necessário o Git , Node.js + Yarn instalado em sua maquina.
 
 # Instalação da API
-
-```# Go into the repository
+```
+# Entre no repositório
 $ cd SemanaOmnistack11/backend
 
-# Instalar dependências
+# Instale as dependências
 $ yarn install
 
-# Executar Migrates
+# Execute as Migrates
 $ yarn knex migrate:latest 
 
-# Executar Seeds
+# Execute as Seeds
 $ yarn seed
 
-# Executar à API
-$ yarn dev```
+# Execute à API
+$ npm start
