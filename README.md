@@ -7,7 +7,7 @@ Para executar essa aplicação, é necessário o Git , Node.js + Yarn instalado 
 # Instalação da API
 ```
 # Entre no repositório
-$ cd SemanaOmnistack11/backend
+$ cd semanaOmniStack11/backend
 
 # Instale as dependências
 $ yarn install
