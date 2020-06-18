@@ -1,8 +1,20 @@
-# semanaOmniStack11
- Código da aplicação desenvolvida durante a Semana OmniStack11
- ***
- ## Sistema para ONGs se cadastrarem e divulgarem casos onde pessoas contribuam com o valor desses casos.
- ***
- 
- ### OBSERVAÇÃO:
- - Versão mobile com React Native ainda em desenvolvimento, em breve estarei atualizando e divulgando os códigos.
+# Como Usar
+
+Para executar essa aplicação, é necessário o Git , Node.js + Yarn instalado em sua maquina.
+
+# Instalação da API
+
+```# Go into the repository
+$ cd SemanaOmnistack11/backend
+
+# Instalar dependências
+$ yarn install
+
+# Executar Migrates
+$ yarn knex migrate:latest 
+
+# Executar Seeds
+$ yarn seed
+
+# Executar à API
+$ yarn dev```
