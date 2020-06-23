@@ -2,10 +2,11 @@
 O Be The Hero é um sistema em que ONGs possam se cadastrar e cadastrar casos no qual pessoas possam contribuir financeiramente com um caso específico.
 
 # Tecnologias
-- javaScript
+- JavaScript
+- Node.js
 - React.js
 - React Native
-- express
+- Express
 
 # Como Usar
 Para executar essa aplicação, é necessário o **Node.js** + **Yarn** ou **Npm** instalado em sua maquina.
